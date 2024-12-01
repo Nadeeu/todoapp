@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926427920109",
+    "project_id": "todoapp-akhir",
+    "storage_bucket": "todoapp-akhir.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926427920109:android:3341146a1d930bf0a1bee4",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmlIK_BXDxAx4MRh-KmXVS74nqT1dporE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
